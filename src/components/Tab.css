@@ -1,0 +1,9 @@
+.tabs{
+    margin: 10px;
+    padding: 10px;
+}
+
+.contents{
+    border: solid 1px black;
+    height: 100px;
+}
